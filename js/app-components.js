@@ -106,3 +106,22 @@ Vue.component('DeleteIt',{
     </button>
     `,
 });
+
+
+Vue.component('Myfooter',{
+    
+    props: {
+
+    },
+
+
+    methods: {
+
+    },
+
+    template: ` <footer class="footer mt-auto py-3 bg-primary fixed-bottom">
+    <div class="container text-center">
+      <span class="text-white ">Luis Diego Hernandez - WCTC</span>
+    </div>
+  </footer> `,
+});

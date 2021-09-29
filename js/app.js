@@ -17,6 +17,7 @@ const app = new Vue({
                 {name: 'Fish', qty: 3, purchased: true, category: 'meats'}
             ],
         }
+        
     },
 
     methods: {
